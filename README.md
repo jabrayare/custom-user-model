@@ -1,2 +1,2 @@
 # custom-user-model
-This is a custom user model in django built with rest framework.
+This is a custom user model built with python django.
